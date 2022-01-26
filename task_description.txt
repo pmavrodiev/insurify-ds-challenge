@@ -1,0 +1,7 @@
+Work with the attached dataset to identify users who are more likely to do a sale.
+
+It's important for the business to understand what makes someone more likely to buy an insurance. For this purpose, we assembled a dataset with features of users and their sessions and an indicator if they resulted in a sale or not. Your goal is to work with this dataset and identify users who are more likely to convert so that we can personalise the experience for them.
+
+We don't expect a perfect solution (actually, we believe there isn't one). But please take several hours to implement a well structured approach in a Jupyter notebook.
+
+Afterwards, we'll discuss your solution in detail. Be ready to answer question like, why did you choose this approach and not others, how will you measure the performance of your solution and how do you interpret the final results

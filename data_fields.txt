@@ -1,0 +1,11 @@
+id - unique identifier of the rows
+date - date of the session
+campaign_id - id of the advertising campaign that led the user to the site
+group_id - id of the group that lead the user to the site
+age_group - age range of the user
+gender - gender of the user
+user_type - internal id of the type of user
+platform - device type of the user
+state_id - US state id of the user location
+interactions - number of interactions of the user
+sale - boolean indicator if the user has made a sale or not
