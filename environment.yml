@@ -1,0 +1,11 @@
+name: insurify-py39
+dependencies:
+  - python=3.9
+  - scikit-learn=1.0.2
+  - pandas=1.2.5
+  - shap=0.39.0
+  - catboost=0.26.1
+  - notebook=6.4.6
+  - nb_conda=2.2.1
+  - pandas-profiling=2.9.0
+  
